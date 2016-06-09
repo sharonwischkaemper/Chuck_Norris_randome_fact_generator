@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-family: Georgia, Serif;
+}
+
+h3{
+     text-align: center;
+     font-family: Georgia, Serif;
+}
+h4{
+   text-align: center;
+   font-family: Georgia, Serif;
+}
+
+h2{
+  
+   text-align: center;
+   font-family: Georgia, Serif;
+
+}
+body{
+    background-color:#33d6ff;
+}
+
+.jumbotron{
+     background-color:#33d6ff;
+}
+
+#get_content{
+    align-content: center;
+}
+
